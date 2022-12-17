@@ -18,7 +18,7 @@
 <br>
 
 <img
-    src = 'https://github.com/Ujjwal-Madaan/Github-Profile-Information-Abstractor/blob/main/images/Main%20image.png'
+    src = 'https://github.com/Ujjwal-Madaan/Github-Profile-Information-Abstractor/blob/main/images/Main%20Image.png'
     width = 800
 />
 
