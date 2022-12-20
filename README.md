@@ -2,7 +2,7 @@
 
 Entire program is based on the working of JavaScript PULL and PUSH API call architecture.
 
-<img width="1792" alt="image" src="[https://github.com/Ujjwal-Madaan/BarberzBuzz/blob/main/Img/1.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.smartsheet.com%2Fpush-notifications&psig=AOvVaw0Wjz--JY4wlrWxSgkln87q&ust=1671607730027000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNixjprWh_wCFQAAAAAdAAAAABAE)">
+<img width="1792" alt="image" src="https://github.com/Ujjwal-Madaan/Github-Profile-Information-Abstractor/blob/main/images/Img.png">
 
 Pull architecture is request driven: the client sends the request, and the server responds accordingly. Push architecture is event driven: the server pushes data to clients as updates become available. So, in this way, the client or the user sends the request to the server to get the information of the GitHub profile of the user. And in turn, the client gets the summary of the GitHub profile.
 
@@ -24,7 +24,7 @@ User just need to input the GitHub Profile of the user and get the information s
 
 # 4. Live Link
 
-[Demo]: https://profile-summary-for-github.com/
+Link: https://ujjwal-madaan.github.io/Github-Profile-Information-Abstractor/profile.html?user=ujjwal-madaan
 
 # 5. Screenshot of the Interface
 
