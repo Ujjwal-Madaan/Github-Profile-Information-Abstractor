@@ -1,3 +1,5 @@
+# Github-Profile-Information-Abstractor
+
 # 1. Methodology
 
 Entire program is based on the working of JavaScript PULL and PUSH API call architecture.
