@@ -2,7 +2,7 @@
 
 Entire program is based on the working of JavaScript PULL and PUSH API call architecture.
 
-<img width="300" height="300" alt="image" src="https://github.com/Ujjwal-Madaan/Github-Profile-Information-Abstractor/blob/main/images/Screenshot%20(3711).png">
+<img width="600" height="500" alt="image" src="https://github.com/Ujjwal-Madaan/Github-Profile-Information-Abstractor/blob/main/images/Screenshot%20(3711).png">
 
 Pull architecture is request driven: the client sends the request, and the server responds accordingly. Push architecture is event driven: the server pushes data to clients as updates become available. So, in this way, the client or the user sends the request to the server to get the information of the GitHub profile of the user. And in turn, the client gets the summary of the GitHub profile.
 
