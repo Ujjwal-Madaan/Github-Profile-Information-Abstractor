@@ -1,6 +1,6 @@
 # Github-Profile-Information-Abstractor
 
-##1. Methodology
+## 1. Methodology
 
 Entire program is based on the working of JavaScript PULL and PUSH API call architecture.
 
@@ -8,7 +8,7 @@ Entire program is based on the working of JavaScript PULL and PUSH API call arch
 
 Pull architecture is request driven: the client sends the request, and the server responds accordingly. Push architecture is event driven: the server pushes data to clients as updates become available. So, in this way, the client or the user sends the request to the server to get the information of the GitHub profile of the user. And in turn, the client gets the summary of the GitHub profile.
 
-##2. Description
+## 2. Description
 
 The project gives the summary of the GitHub profile of the user like:
 - Name
@@ -21,14 +21,14 @@ The project gives the summary of the GitHub profile of the user like:
 - Followers
 - Followings
 
-##3. Input / Output
+## 3. Input / Output
 User just need to input the GitHub Profile of the user and get the information statics.
 
-##4. Live Link
+## 4. Live Link
 
 Link: https://ujjwal-madaan.github.io/Github-Profile-Information-Abstractor/profile.html?user=ujjwal-madaan
 
-##5. Screenshot of the Interface
+## 5. Screenshot of the Interface
 
 <div align = center>
 
